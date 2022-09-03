@@ -1,0 +1,28 @@
+{
+    "birds": [
+        {
+            "name": "Henry",
+            "age": "2",
+            "type": "Parrot",
+            "colour": "grey",
+            "distance": "500m",
+            "likes": "skritches"
+        },
+        {
+            "name": "Brenda",
+            "age": "5",
+            "type": "Parakeet",
+            "colour": "green",
+            "distance": "2km",
+            "likes": "screeching, chaos"
+        },
+        {
+            "name": "Joanna",
+            "age": "1",
+            "type": "Parrot",
+            "colour": "blue",
+            "distance": "1km",
+            "likes": "partying all night"
+        }
+    ]
+}
